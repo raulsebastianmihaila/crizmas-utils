@@ -11,9 +11,9 @@
   "homepage": "https://raulsebastianmihaila.github.io/crizmas-mvc-docs",
   "repository": {
     "type": "git",
-    "url": "https://raulsebastianmihaila.github.io/crizmas-utils"
+    "url": "https://github.com/raulsebastianmihaila/crizmas-utils"
   },
-  "bugs": "https://raulsebastianmihaila.github.io/crizmas-utils/issues",
+  "bugs": "https://github.com/raulsebastianmihaila/crizmas-utils/issues",
   "keywords": [
     "mvc",
     "utils",
