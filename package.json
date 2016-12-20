@@ -1,6 +1,6 @@
 {
   "name": "crizmas-utils",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Utilities package used in conjunction with the crizmas-mvc framework.",
   "private": true,
   "author": {
