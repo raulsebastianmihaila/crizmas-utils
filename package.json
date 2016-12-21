@@ -2,6 +2,7 @@
   "name": "crizmas-utils",
   "version": "0.1.2",
   "description": "Utilities package used in conjunction with the crizmas-mvc framework.",
+  "private": true,
   "author": {
     "name": "Raul-Sebastian Mihăilă",
     "email": "raul.mihaila@gmail.com"
