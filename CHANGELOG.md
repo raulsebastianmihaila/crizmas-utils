@@ -1,3 +1,9 @@
+<a name="0.2.1"></a>
+# [0.2.1](https://github.com/raulsebastianmihaila/crizmas-utils/compare/v0.2.0...v0.2.1) (2017-04-29)
+
+### Updates
+- Ensure that functions that should not be constructed are not constructors.
+
 <a name="0.2.0"></a>
 # [0.2.0](https://github.com/raulsebastianmihaila/crizmas-utils/compare/v0.1.2...v0.2.0) (2016-12-29)
 
