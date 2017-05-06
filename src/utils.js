@@ -3,6 +3,10 @@
 
   const isModule = typeof module === 'object' && typeof module.exports === 'object';
 
+  const isVal = (val) => {
+    return val !== null && val !== undefined;
+  };
+
   const isObj = (val) => {
     return val && typeof val === 'object';
   };
@@ -24,6 +28,7 @@
   };
 
   const moduleExports = {
+    isVal,
     isObj,
     isFunc,
     isPromise,
