@@ -1,3 +1,8 @@
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/raulsebastianmihaila/crizmas-utils/compare/v0.2.2...v1.0.0) (2017-07-30)
+
+### No changes
+
 <a name="0.2.2"></a>
 # [0.2.2](https://github.com/raulsebastianmihaila/crizmas-utils/compare/v0.2.1...v0.2.2) (2017-05-07)
 
