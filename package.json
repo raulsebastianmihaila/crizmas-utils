@@ -2,6 +2,7 @@
   "name": "crizmas-utils",
   "version": "1.0.0",
   "description": "Utilities package used in conjunction with the crizmas-mvc framework.",
+  "license": "MIT",
   "private": true,
   "author": {
     "name": "Raul-Sebastian Mihăilă",
@@ -24,5 +25,12 @@
     "javascript",
     "framework",
     "front-end"
-  ]
+  ],
+  "scripts": {
+    "test": "jest",
+    "test-coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
 }
