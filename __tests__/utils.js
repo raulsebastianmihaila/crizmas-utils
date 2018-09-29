@@ -1,3 +1,5 @@
+'use strict';
+
 const utils = require('../src/utils.js');
 
 const {isVal, isObj, isFunc, isPromise, resolveThenable} = utils;
