@@ -1,3 +1,9 @@
+<a name="1.0.3"></a>
+# [1.0.3](https://github.com/raulsebastianmihaila/crizmas-utils/compare/v1.0.2...v1.0.3) (2018-12-08)
+
+### Updates
+- Update package-lock for dev dependencies to fix jest vulnerabilities.
+
 <a name="1.0.2"></a>
 # [1.0.2](https://github.com/raulsebastianmihaila/crizmas-utils/compare/v1.0.1...v1.0.2) (2018-12-08)
 
